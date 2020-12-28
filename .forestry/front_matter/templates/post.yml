@@ -32,5 +32,8 @@ fields:
     schema:
       format: html
   label: instagram
+  hidden: false
+  showOnly:
+    field: disable_share
 pages:
 - content/post/chapter-6.md
