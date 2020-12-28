@@ -8,4 +8,6 @@ disable_share: false
 instagram: "<p></p>"
 
 ---
+{{< youtube 3wct6DviV7Q >}}
+
 {{< instagram CJBnnHXBvm7 hidecaption >}}
