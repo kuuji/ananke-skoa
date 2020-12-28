@@ -8,4 +8,4 @@ disable_share: false
 instagram: "<p></p>"
 
 ---
-{{< instagram CJBnnHXBvm7 hidecaption >}
+{{< instagram CJBnnHXBvm7 hidecaption >}}
